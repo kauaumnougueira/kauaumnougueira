@@ -4,8 +4,8 @@
 - tenho interesse em web development Fullstack
 <div align="center">
   <a href="https://github.com/kauaumnougueira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauaumnougueira&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauaumnougueira&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img height="180em" width = "auto" src="https://github-readme-stats.vercel.app/api?username=kauaumnougueira&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="180em"  width = "auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauaumnougueira&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
   <div> 
   <a href="https://instagram.com/kaua_noguei" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
