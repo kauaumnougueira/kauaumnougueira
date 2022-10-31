@@ -1,7 +1,7 @@
 ### Olá! meu nome é Kauã
-- Atualmente estou estudando Java
+- Atualmente estou estudando Java, python e C
 - Busco oportunidade de expandir meus conhecimentos e ingressar no mercado de trabalho
-- tenho interesse em web development Fullstack
+- tenho interesse em web development Fullstack e estudos com redes neurais
 <div align="center">
   <a href="https://github.com/kauaumnougueira">
   <img height="180em"  width = "auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauaumnougueira&layout=compact&langs_count=7&theme=codeSTACKr"/>
