@@ -4,7 +4,7 @@
 - tenho interesse em web development Fullstack e estudos com redes neurais
 <div align="center">
   <a href="https://github.com/kauaumnougueira">
-  <img height="180em"  width = "auto" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kauaumnougueira&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img height="180em"  width = "auto" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kauaumnougueira&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
 <div> 
   <a href="https://instagram.com/kaua_noguei" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
