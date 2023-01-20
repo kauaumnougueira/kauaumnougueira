@@ -1,5 +1,5 @@
 ### Olá! meu nome é Kauã
-- Atualmente estou estudando Java, python e C
+- Atualmente estou estudando PHP
 - Busco oportunidade de expandir meus conhecimentos e ingressar no mercado de trabalho
 - tenho interesse em web development Fullstack e estudos com redes neurais
 <div align="center">
