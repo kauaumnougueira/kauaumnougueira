@@ -39,7 +39,7 @@
   
   <img src="https://skills.thijs.gg/icons?i=mysql" alt="MySQL icon" style="display: inline;">
   
-  <h2>Conhece</h2>
+  <h2>Conheço</h2>
   
   <a href="https://github.com/kauaumnougueira?tab=repositories&q=&type=&language=java&sort=">
     <img src="https://skills.thijs.gg/icons?i=java" alt="Java icon" style="display: inline;">
