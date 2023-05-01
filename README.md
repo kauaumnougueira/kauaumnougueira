@@ -3,7 +3,6 @@
 - Atualmente estou estudando web development com Laravel e Bootstrap
 - Busco oportunidade de expandir meus conhecimentos e ingressar no mercado de trabalho
 - Tenho interesse em web development Fullstack e estudos com redes neurais
-- <a href="https://drive.google.com/file/d/1CCTCyRfu8bIUo0_JgFcOkllUyZ32QRHQ/view?usp=sharing" target="_blank"> Currículo </a>
 
 <div align="center">
   <a href="https://github.com/kauaumnougueira">
