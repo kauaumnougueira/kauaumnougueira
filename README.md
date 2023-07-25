@@ -20,6 +20,8 @@
   </a>
   
   <img src="https://skills.thijs.gg/icons?i=laravel" alt="Laravel icon" style="display: inline;">
+
+  <img src="https://skills.thijs.gg/icons?i=react" alt="PHP icon" style="display: inline;">
   
   <a href="https://github.com/kauaumnougueira?tab=repositories&q=&type=&language=javascript&sort=">
     <img src="https://skills.thijs.gg/icons?i=javascript" alt="JavaScript icon" style="display: inline;">
