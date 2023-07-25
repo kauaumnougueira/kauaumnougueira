@@ -1,6 +1,6 @@
 ### Olá! meu nome é Kauã
 - Sou graduando em Sistemas de Informação pelo Instituto Federal do Maranhão - IFMA
-- Atualmente estou estudando web development com Laravel e Bootstrap
+- Atualmente estou estudando web development com Laravel e React
 - Busco oportunidade de expandir meus conhecimentos e ingressar no mercado de trabalho
 - Tenho interesse em web development Fullstack e estudos com redes neurais
 
