@@ -26,6 +26,10 @@
   <a href="https://github.com/kauaumnougueira?tab=repositories&q=&type=&language=javascript&sort=">
     <img src="https://skills.thijs.gg/icons?i=javascript" alt="JavaScript icon" style="display: inline;">
   </a>
+
+  <a href="https://github.com/kauaumnougueira?tab=repositories&q=&type=&language=typescriptt&sort=">
+    <img src="https://skills.thijs.gg/icons?i=typescript" alt="JavaScript icon" style="display: inline;">
+  </a>
   
   <a href="https://github.com/kauaumnougueira?tab=repositories&q=&type=&language=html&sort=">
     <img src="https://skills.thijs.gg/icons?i=html" alt="HTML icon" style="display: inline;">
