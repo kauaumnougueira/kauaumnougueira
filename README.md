@@ -16,47 +16,47 @@
   <h2>Stack Atual</h2>
   
   <a href="https://github.com/kauaumnougueira?tab=repositories&q=&type=&language=php&sort=">
-    <img src="https://skills.thijs.gg/icons?i=php" alt="PHP icon" style="display: inline;">
+    <img src="https://skillicons.dev/icons?i=php" alt="PHP icon" style="display: inline;">
   </a>
   
-  <img src="https://skills.thijs.gg/icons?i=laravel" alt="Laravel icon" style="display: inline;">
+  <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel icon" style="display: inline;">
 
-  <img src="https://skills.thijs.gg/icons?i=react" alt="PHP icon" style="display: inline;">
+  <img src="https://skillicons.dev/icons?i=react" alt="PHP icon" style="display: inline;">
   
   <a href="https://github.com/kauaumnougueira?tab=repositories&q=&type=&language=javascript&sort=">
-    <img src="https://skills.thijs.gg/icons?i=javascript" alt="JavaScript icon" style="display: inline;">
+    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript icon" style="display: inline;">
   </a>
 
   <a href="https://github.com/kauaumnougueira?tab=repositories&q=&type=&language=typescriptt&sort=">
-    <img src="https://skills.thijs.gg/icons?i=typescript" alt="JavaScript icon" style="display: inline;">
+    <img src="https://skillicons.dev/icons?i=typescript" alt="JavaScript icon" style="display: inline;">
   </a>
   
   <a href="https://github.com/kauaumnougueira?tab=repositories&q=&type=&language=html&sort=">
-    <img src="https://skills.thijs.gg/icons?i=html" alt="HTML icon" style="display: inline;">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML icon" style="display: inline;">
   </a>
   
   <a href="https://github.com/kauaumnougueira?tab=repositories&q=&type=&language=css&sort=">
-    <img src="https://skills.thijs.gg/icons?i=css" alt="CSS icon" style="display: inline;">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS icon" style="display: inline;">
   </a>
   
-  <img src="https://skills.thijs.gg/icons?i=bootstrap" alt="Bootstrap icon" style="display: inline;">
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap icon" style="display: inline;">
   
-  <img src="https://skills.thijs.gg/icons?i=mysql" alt="MySQL icon" style="display: inline;">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL icon" style="display: inline;">
   
   <h2>Conheço</h2>
   
   <a href="https://github.com/kauaumnougueira?tab=repositories&q=&type=&language=java&sort=">
-    <img src="https://skills.thijs.gg/icons?i=java" alt="Java icon" style="display: inline;">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java icon" style="display: inline;">
   </a>
   
-  <img src="https://skills.thijs.gg/icons?i=spring" alt="Spring icon" style="display: inline;">
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring icon" style="display: inline;">
   
   <a href="https://github.com/kauaumnougueira?tab=repositories&q=&type=&language=c&sort=">
-    <img src="https://skills.thijs.gg/icons?i=c" alt="C icon" style="display: inline;">
+    <img src="https://skillicons.dev/icons?i=c" alt="C icon" style="display: inline;">
   </a>
   
   <a href="https://github.com/kauaumnougueira?tab=repositories&q=&type=&language=python&sort=">
-    <img src="https://skills.thijs.gg/icons?i=python" alt="Python icon" style="display: inline;">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python icon" style="display: inline;">
   </a>
 </div>
 
